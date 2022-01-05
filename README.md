@@ -8,7 +8,7 @@ Deux facons de faire :
 _ Une facon qui marche avec le main fourni par Glagan
 
 
-_ Une autre un peu moins securise mais qui devrait passer durant l exam
+_ Une autre un peu moins securise mais plus rapide qui devrait passer durant l exam
 
 
 
