@@ -12,4 +12,4 @@ _ Une autre un peu moins securise mais qui devrait passer durant l exam
 
 
 
-J ai passe la premiere version en exam en 1 h 30 en ayant le temps de faire des main de test pour chaque fichier
+J ai passe la premiere version en exam en 1 h 30 en ayant le temps de faire des main de test pour chaque exercice
